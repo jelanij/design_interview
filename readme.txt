@@ -10,7 +10,7 @@ Scenario:
 	Mcdonalds, 123 60th St, Tampa, FL, 33511
 	Burger King, 88th Jackson St, St. Pete, FL, 33511
 
-2 - In the document ready function, make a call to the "get_data" function on line 69 and pass the below numbers as a list array.  Provide that list array to the chart's data variable, so that the graph works correctly
+2 - In the document ready function, make a call to the "get_data" function on line 69 and pass the below numbers as a list array.  Provide that list array to the chart's data variable, so that the graph displays correctly
 
 	21213
 	1213213
