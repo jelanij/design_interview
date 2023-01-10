@@ -1,12 +1,16 @@
 Web Design Question
 
-1 - Create an HTML table with 5 columns and 3 rows using the below data
+Scenario:
+	A junior developer has developed a website and uploaded the code to this GIT repository for review.  After you review the document, you discover several issues that need to be fixed.  Follow the below instructions to correct the document.  You can use any editor you want to resolve the problem.	
+
+1 - Download this project from GIT to your local machine
+2 - On line 45 of the question.html document, create a html table with 5 columns and 3 rows using the below data
 
 	Customer Name, Address, City, State, ZIP
 	Mcdonalds, 123 60th St, Tampa, FL, 33511
 	Burger King, 88th Jackson St, St. Pete, FL, 33511
 
-2 - When the HTML document is ready, call the get-data function to pass the below numbers in a list array.  Provide that list array to the chart, so that the graph works correctly
+2 - In the document ready function, make a call to the "get_data" function on line 69 and pass the below numbers as a list array.  Provide that list array to the chart's data variable, so that the graph works correctly
 
 	21213
 	1213213
