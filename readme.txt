@@ -1,7 +1,7 @@
 Web Design Question
 
 Scenario:
-	A junior developer has developed a website and uploaded the code to this GIT repository for review.  After you review the document, you discover several issues that need to be fixed.  Follow the below instructions to correct the document.  You can use any editor you want to resolve the problem.	
+	A junior developer has developed a web page called "question.html" and uploaded it to this GIT repository for you to review.  After you review the document, you discover several issues that need to be fixed.  Follow the below instructions to correct the document.  You can use any editor you want to resolve the problem.	
 
 1 - Download this project from GIT to your local machine
 2 - On line 45 of the question.html document, create a html table with 5 columns and 3 rows using the below data
